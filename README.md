@@ -1,1 +1,1 @@
-# Assignment-on-Machine-Learning
+# Assignment-on-Supervised-Learning
